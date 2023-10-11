@@ -6,3 +6,6 @@ git commit
 
 git push 
 
+git status
+
+git log
